@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------*
  *  CShell v1.0                                                               *
  *  Fileame:      cshell.c                                                    *
- *  Written by:   Corby Berry - 0665977                                       *
+ *  Written by:   Corby Berry                                                 *
  *                                                                            *
  *  Purpose:      This program acts as a little 'shell'. Users can run        *
  *                this program in the command line and accepts a select       *
