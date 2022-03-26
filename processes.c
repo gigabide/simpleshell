@@ -8,7 +8,7 @@
  *                few verb names as arguments. The shell interprets these     *
  *                commands and executes associated bash commands or macros.   *
  *                                                                            *
- *  Usage         ./cshell [verb]                                             *
+ *  Usage         ./cshell                                                    *
  *  Subrtns/Libs: See includes.                                               *
 /*----------------------------------------------------------------------------*/
 #include <stdio.h>
